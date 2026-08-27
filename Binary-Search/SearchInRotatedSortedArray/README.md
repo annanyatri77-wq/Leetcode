@@ -1,4 +1,4 @@
-# Search in Rotated Sorted Array
+Day 1# Search in Rotated Sorted Array
 ## LeetCode #33
 There is an integer array nums sorted in ascending order (with distinct values).
 
