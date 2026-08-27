@@ -1,5 +1,5 @@
 # Find Smallest Letter Greater Than Target
-LeetCode #744
+*LeetCode #744*
 
 Given a characters array `letters` that is sorted in non-decreasing order and a character `target`, return the smallest character in the array that is lexicographically greater than `target`.
 
